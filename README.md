@@ -1,4 +1,4 @@
-![logo](https://github.com/abhimanyuguptaa/abhimanyuguptaa/blob/main/I%20love%20stories%20-%20Travel%2C%20Product%20and%20Data...!%20(1).png)
+![logo](https://github.com/abhimanyuguptaa/abhimanyuguptaa/blob/main/I%20love%20stories%20-%20Travel%2C%20Product%20and%20Data...!.png)
 <div align="center">
   <a href="https://www.linkedin.com/in/abhimanyuguptaa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
